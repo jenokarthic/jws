@@ -9,7 +9,7 @@ build:
 deploy:
   steps:
     - uetchy/gh-pages:
-        token: $git_token
+        token: $GIT_TOKEN
         domain: www.jeno.in
         basedir: build
         path: public
