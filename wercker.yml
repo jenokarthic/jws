@@ -12,3 +12,4 @@ deploy:
         token: $git_token
         domain: www.jeno.in
         basedir: build
+        path: public
