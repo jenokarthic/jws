@@ -7,4 +7,4 @@ title = "About us!"
 menu = "main"
 +++
 
-This is test in the static site. Changes
+This is test in the static site. 2nd Changes
