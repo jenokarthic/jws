@@ -4,10 +4,11 @@ build:
     - arjen/hugo-build:
         version: "0.15"
         theme: hyde-x
-        config: config.yaml
+        config: config.toml
         flags: --baseUrl=http://www.jeno.in
 deploy:
   steps:
-    - hijonathan/gh-pages:
+    - gh-pages:
         token: $GIT_TOKEN
-        basedir: public
+        domain: www.jeno.in
+        basedir: build
