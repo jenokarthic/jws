@@ -1,7 +1,7 @@
 baseurl = "http://www.jeno.in/"
 languageCode = "en-us"
 title = "Jeno"
-disqusShortname = "jenokarthic" # Optional, enable Disqus integration
+disqusShortname = "jenokarthicblog" # Optional, enable Disqus integration
 MetaDataFormat = "toml"
 theme = "hyde-x"
 paginate = 10
