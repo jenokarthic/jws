@@ -9,6 +9,6 @@ build:
 deploy:
   steps:
     - uetchy/gh-pages:
-        token: $GIT_TOKEN
+        token: $git_token
         domain: www.jeno.in
         basedir: build
