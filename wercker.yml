@@ -1,0 +1,13 @@
+box: google/golang
+build:
+  steps:
+    - arjen/hugo-build:
+        version: "0.15"
+        theme: hyde-x
+        config: config.yaml
+        flags: --baseUrl=http://www.jeno.in
+deploy:
+  steps:
+    - hijonathan/gh-pages:
+        token: $GIT_TOKEN
+        basedir: public
