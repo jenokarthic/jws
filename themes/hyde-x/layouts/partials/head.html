@@ -34,4 +34,4 @@
   <meta name="keywords" content="{{ range $index, $element := .Keywords }}{{ if gt $index 0 }},{{ end }}{{ . }}{{ else }}{{ .Site.Params.defaultKeywords }}{{ end }}">
 </head>
 <body{{ with .Site.Params.theme }} class="{{ . }}"{{ end }}>
-{{ partial "sidebar.html" . }}
+

@@ -30,5 +30,7 @@
       if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
       else window.addEventListener('load', loadDeferredStyles);
     </script>
+
+{{ partial "sidebar.html" . }}
 </body>
 </html>
