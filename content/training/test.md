@@ -14,7 +14,7 @@ layout: true
 
 <!-- This slide will serve as the base layout for all your slides -->
 .bottom-bar[
-  {{title}}
+  {{title}} | [Jeno]({{.Site.BaseURL}}) | Twitter: [jenokarthic](https://www.twitter.com/jenokarthic)
 ]
 
 ---
