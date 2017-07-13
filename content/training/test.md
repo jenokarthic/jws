@@ -8,7 +8,7 @@ menu="main"
 css="yellow"
 +++
 
-title: My Presentation
+title: Technical Debt
 class: animation-fade
 layout: true
 
@@ -18,7 +18,6 @@ layout: true
 ]
 
 ---
-
 class: impact
 <div CLASS="bigtext">
     <span>{{title}} </span>
