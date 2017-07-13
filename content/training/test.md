@@ -20,10 +20,10 @@ layout: true
 ---
 
 class: impact
-
-# {{title}}
-## With a good subtitle :-)
-
+<div CLASS="bigtext">
+    <span>{{title}} </span>
+    <span>THis is long very long very very long expansion.  </span>
+</div>
 ---
 
 # The basics
