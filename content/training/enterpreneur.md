@@ -5,6 +5,7 @@ author="Jeno Karthic"
 featured="false"
 type="slide"
 menu="main"
+css="yellow"
 +++
 
 class: center, middle
