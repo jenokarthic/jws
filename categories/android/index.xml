@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android on Jeno</title>
+    <link>http://www.jeno.in/categories/android/</link>
+    <description>Recent content in Android on Jeno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Jul 2017 23:37:03 +0530</lastBuildDate>
+    <atom:link href="http://www.jeno.in/categories/android/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mobile Application Development</title>
+      <link>http://www.jeno.in/training/mobileapplicationdevelopment/Introduction/</link>
+      <pubDate>Thu, 27 Jul 2017 23:37:03 +0530</pubDate>
+      
+      <guid>http://www.jeno.in/training/mobileapplicationdevelopment/Introduction/</guid>
+      <description>
+
+&lt;p&gt;layout: true&lt;/p&gt;
+
+&lt;!-- This slide will serve as the base layout for all your slides --&gt;
+
+&lt;p&gt;.bottom-bar[
+  Mobile Application Development
+]&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;class: impact&lt;/p&gt;
+
+&lt;h1 id=&#34;mobile-application-development:eb3a74b7ffe83afb3fea66e45dd8e260&#34;&gt;Mobile Application Development&lt;/h1&gt;
+
+&lt;h3 id=&#34;jeno-karthic:eb3a74b7ffe83afb3fea66e45dd8e260&#34;&gt;Jeno Karthic&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;class: animation-fade&lt;/p&gt;
+
+&lt;h1 id=&#34;the-basics:eb3a74b7ffe83afb3fea66e45dd8e260&#34;&gt;The basics&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;class: animation-fade&lt;/p&gt;
+
+&lt;h1 id=&#34;power-of-mobile:eb3a74b7ffe83afb3fea66e45dd8e260&#34;&gt;Power of Mobile&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Blend into daily activities-&lt;/li&gt;
+&lt;li&gt;More Personal
+
+&lt;ul&gt;
+&lt;li&gt;It knows you better, represents you&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Proximity&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Wherever you go, it follows&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Reach to millions
+
+&lt;ul&gt;
+&lt;li&gt;Cost effective&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Sensors&lt;/li&gt;
+&lt;li&gt;Communication&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;???
+* When did you use your computer/laptop lastly?
+* Do you carry your laptop everywhere?
+* First time internet users from mobile, 50% of Indian only thing to connect to internet is from
+* No need to ask for users? Key success to Context aware application&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;class: animation-fade&lt;/p&gt;
+
+&lt;h1 id=&#34;consideration:eb3a74b7ffe83afb3fea66e45dd8e260&#34;&gt;Consideration&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Screen Size - User Interface is key thing
+
+&lt;ul&gt;
+&lt;li&gt;Show only important thing&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Connectivity / Bandwidth
+
+&lt;ul&gt;
+&lt;li&gt;Might break inbetween, need to with stand&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Computing power - Performance&lt;/li&gt;
+&lt;li&gt;Limited input&lt;/li&gt;
+&lt;li&gt;Battery&lt;/li&gt;
+&lt;li&gt;Limited Memory
+
+&lt;ul&gt;
+&lt;li&gt;User tends to keep application which is small in size and uses smaller memory&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;other-considerations:eb3a74b7ffe83afb3fea66e45dd8e260&#34;&gt;Other Considerations&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;No standard device&lt;/li&gt;
+&lt;li&gt;Multiple player - Apple, Android, windows&lt;/li&gt;
+&lt;li&gt;
+&amp;mdash;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;intresting-mobile-apps:eb3a74b7ffe83afb3fea66e45dd8e260&#34;&gt;Intresting Mobile apps&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;need-for-mobile-app:eb3a74b7ffe83afb3fea66e45dd8e260&#34;&gt;Need for mobile app&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;software-for-development:eb3a74b7ffe83afb3fea66e45dd8e260&#34;&gt;Software for Development&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Native app development&lt;/li&gt;
+&lt;li&gt;Hybrid app development&lt;/li&gt;
+&lt;li&gt;Web app Development&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;summary:eb3a74b7ffe83afb3fea66e45dd8e260&#34;&gt;Summary&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;reference-further-reading:eb3a74b7ffe83afb3fea66e45dd8e260&#34;&gt;Reference &amp;amp; Further Reading&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://web.cse.ohio-state.edu/~champion.17/5236/&#34;&gt;Ohio State university - Mobile Application Development&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

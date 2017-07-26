@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeno</title>
+    <link>http://www.jeno.in/</link>
+    <description>Recent content on Jeno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Jul 2017 23:37:03 +0530</lastBuildDate>
+    <atom:link href="http://www.jeno.in/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mobile Application Development</title>
+      <link>http://www.jeno.in/training/mobileapplicationdevelopment/Introduction/</link>
+      <pubDate>Thu, 27 Jul 2017 23:37:03 +0530</pubDate>
+      
+      <guid>http://www.jeno.in/training/mobileapplicationdevelopment/Introduction/</guid>
+      <description>
+
+&lt;p&gt;layout: true&lt;/p&gt;
+
+&lt;!-- This slide will serve as the base layout for all your slides --&gt;
+
+&lt;p&gt;.bottom-bar[
+  Mobile Application Development
+]&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;class: impact&lt;/p&gt;
+
+&lt;h1 id=&#34;mobile-application-development:eb3a74b7ffe83afb3fea66e45dd8e260&#34;&gt;Mobile Application Development&lt;/h1&gt;
+
+&lt;h3 id=&#34;jeno-karthic:eb3a74b7ffe83afb3fea66e45dd8e260&#34;&gt;Jeno Karthic&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;class: animation-fade&lt;/p&gt;
+
+&lt;h1 id=&#34;the-basics:eb3a74b7ffe83afb3fea66e45dd8e260&#34;&gt;The basics&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;class: animation-fade&lt;/p&gt;
+
+&lt;h1 id=&#34;power-of-mobile:eb3a74b7ffe83afb3fea66e45dd8e260&#34;&gt;Power of Mobile&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Blend into daily activities-&lt;/li&gt;
+&lt;li&gt;More Personal
+
+&lt;ul&gt;
+&lt;li&gt;It knows you better, represents you&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Proximity&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Wherever you go, it follows&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Reach to millions
+
+&lt;ul&gt;
+&lt;li&gt;Cost effective&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Sensors&lt;/li&gt;
+&lt;li&gt;Communication&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;???
+* When did you use your computer/laptop lastly?
+* Do you carry your laptop everywhere?
+* First time internet users from mobile, 50% of Indian only thing to connect to internet is from
+* No need to ask for users? Key success to Context aware application&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;class: animation-fade&lt;/p&gt;
+
+&lt;h1 id=&#34;consideration:eb3a74b7ffe83afb3fea66e45dd8e260&#34;&gt;Consideration&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Screen Size - User Interface is key thing
+
+&lt;ul&gt;
+&lt;li&gt;Show only important thing&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Connectivity / Bandwidth
+
+&lt;ul&gt;
+&lt;li&gt;Might break inbetween, need to with stand&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Computing power - Performance&lt;/li&gt;
+&lt;li&gt;Limited input&lt;/li&gt;
+&lt;li&gt;Battery&lt;/li&gt;
+&lt;li&gt;Limited Memory
+
+&lt;ul&gt;
+&lt;li&gt;User tends to keep application which is small in size and uses smaller memory&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;other-considerations:eb3a74b7ffe83afb3fea66e45dd8e260&#34;&gt;Other Considerations&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;No standard device&lt;/li&gt;
+&lt;li&gt;Multiple player - Apple, Android, windows&lt;/li&gt;
+&lt;li&gt;
+&amp;mdash;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;intresting-mobile-apps:eb3a74b7ffe83afb3fea66e45dd8e260&#34;&gt;Intresting Mobile apps&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;need-for-mobile-app:eb3a74b7ffe83afb3fea66e45dd8e260&#34;&gt;Need for mobile app&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;software-for-development:eb3a74b7ffe83afb3fea66e45dd8e260&#34;&gt;Software for Development&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Native app development&lt;/li&gt;
+&lt;li&gt;Hybrid app development&lt;/li&gt;
+&lt;li&gt;Web app Development&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;summary:eb3a74b7ffe83afb3fea66e45dd8e260&#34;&gt;Summary&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;reference-further-reading:eb3a74b7ffe83afb3fea66e45dd8e260&#34;&gt;Reference &amp;amp; Further Reading&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://web.cse.ohio-state.edu/~champion.17/5236/&#34;&gt;Ohio State university - Mobile Application Development&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jeno Karthic</title>
+      <link>http://www.jeno.in/about/</link>
+      <pubDate>Thu, 12 May 2016 15:59:09 +0530</pubDate>
+      
+      <guid>http://www.jeno.in/about/</guid>
+      <description>&lt;p&gt;An Enthusiastic Developer from Madurai, who loves to explore tech things and always believe there is much room for learning new things.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>android</title>
+      <link>http://www.jeno.in/training/enterpreneur/</link>
+      <pubDate>Sun, 13 Sep 2015 23:37:03 +0530</pubDate>
+      
+      <guid>http://www.jeno.in/training/enterpreneur/</guid>
+      <description>
+
+&lt;p&gt;class: center, middle&lt;/p&gt;
+
+&lt;h1 id=&#34;akjsd:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;akjsd&lt;/h1&gt;
+
+&lt;p&gt;by Karthic Babu&lt;br /&gt;
+  this is again test
+  &lt;div class=&#34;test&#34;&gt; This is also a test&lt;/div&gt;
+.footnote[23-July-2015 @ TCE, Madurai]
+???
+Entrepreneurship is starting your own business, creating your own destiny.  Entrepreneurship is changing now! Yester years, it was like starting just another business. But now-a-days, its changing.  Technology have invade into our lives.  We use smart phones. We see programs on smart tv.  We ride on smart cars.  Do you know one thing, these are making us dumb.  Leave that apart.  Whatever we use, we expect it to be smart.  In this millenium era, entrepreneurship become synonyms for innovation. So, we will see both.&lt;/p&gt;
+
+&lt;p&gt;Money should not be a motivating factor to start a business. If you feel you can make a difference, they go and start a business.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m not telling that, everyone need to become an entrepreneur.  Becoming entrepreneur may take you through, many black regions of life. But you should not regret yourself, you should not feel in your later part of the life that, despite of having all the qualities to become entrepreneur, you haven&amp;rsquo;t made it.&lt;/p&gt;
+
+&lt;p&gt;Entrepreneurship is living a few years of your life like most people won&amp;rsquo;t.  So that you can spend the rest of your life like most people can&amp;rsquo;t.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;class: center, middle&lt;/p&gt;
+
+&lt;h1 id=&#34;hello-world:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;hello World&lt;/h1&gt;
+
+&lt;p&gt;.footnote[testing the class&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash;&lt;/p&gt;
+
+&lt;p&gt;next line in same slide]&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;class: center, middle&lt;/p&gt;
+
+&lt;h1 id=&#34;so-you-have-dream-great:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;So, you have Dream, Great!&lt;/h1&gt;
+
+&lt;h3 id=&#34;what-s-it:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;What&amp;rsquo;s it?&lt;/h3&gt;
+
+&lt;p&gt;.footnote[If don&amp;rsquo;t have, someone will hire you to make their Dream true!]
+???&lt;/p&gt;
+
+&lt;h2 id=&#34;dream-big:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Dream Big&lt;/h2&gt;
+
+&lt;p&gt;What&amp;rsquo;s your dream?  What stops you to follow your dream?  Is it lack of money? Is it lack of time and resource?  Its fear of getting lost.&lt;/p&gt;
+
+&lt;p&gt;Why you select TCE? Because of good placement? Because of good professors over here?
+We, Indians, especially Tamilan, are brought up by different value system.  Study hard! Study Hard! Get good marks.  Undertake professional degrees like engineering, doctor, management, etc., Otherwise your parents may feel in secured.&lt;/p&gt;
+
+&lt;p&gt;For girls, Study engineering for four years, after graduating, prepare for bank exams and get settled.
+For most of the boys, ultimate aim and highest aim will, get placed in some MNC and go onsite to any foreign nation and update photos in facebook.&lt;/p&gt;
+
+&lt;h2 id=&#34;if-you-have-dream-why-not-it-should-be-big-dream-big-forget-about-the-feasibility-logics-and-all-after-all-its-a-dream-many-unrealistic-dream-are-become-true-because-of-believe:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;If you have dream, why not it should be big. Dream big. Forget about the feasibility, logics and all.  After all, its a dream. Many unrealistic dream are become true, because of believe.&lt;/h2&gt;
+
+&lt;p&gt;class: center, middle&lt;/p&gt;
+
+&lt;h1 id=&#34;who-these-fellows-are:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Who these fellows are?&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;imagesfacebook.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;imagesinfosys.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;imageswindows.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;imagesgoogle.jpg&#34; alt=&#34;&#34; /&gt;
+???
+Can you recognize these folks?&lt;/p&gt;
+
+&lt;p&gt;World wont event remember you if you follow the traditional way of living. Outstand from that group or get lost in the crowd.&lt;/p&gt;
+
+&lt;h2 id=&#34;drive-yourself-or-get-driven-by-some-others-dream:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Drive yourself, or get driven by some others dream.&lt;/h2&gt;
+
+&lt;p&gt;class: center, middle&lt;/p&gt;
+
+&lt;h1 id=&#34;want-to-become-entrepreneur:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Want to become Entrepreneur?&lt;/h1&gt;
+
+&lt;h3 id=&#34;develop-upcoming-10-key-qualities:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Develop upcoming 10 key qualities!&lt;/h3&gt;
+
+&lt;p&gt;???
+Entrepreneur is an art. Entrepreneurship is choice, its a state of mind. Entrepreneurship is an attitude, a way of life.`
+There is no steps to become entrepreneur.  You will get the power to decide.&lt;br /&gt;
+Its not about following some path.  It is making a path to others to follow.&lt;br /&gt;
+You should have great dream which can change many people life.
+You should have guts to stand still against all the odds.&lt;/p&gt;
+
+&lt;h2 id=&#34;even-though-their-is-no-defined-steps-to-become-entrepreneur-they-are-10-key-qualities-every-entrepreneur-should-have-we-will-see-about-it:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Even though, their is no defined steps to become entrepreneur, they are 10 key qualities, every entrepreneur should have.  We will see about it.&lt;/h2&gt;
+
+&lt;p&gt;class: center, middle&lt;/p&gt;
+
+&lt;h1 id=&#34;want-to-become-entrepreneur-1:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Want to become Entrepreneur?&lt;/h1&gt;
+
+&lt;h3 id=&#34;develop-following-10-qualities:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Develop Following 10 qualities!&lt;/h3&gt;
+
+&lt;p&gt;???
+Entrepreneur is an art. Entrepreneurship is choice, its a state of mind. Entrepreneurship is an attitude, a way of life.`
+There is no steps to become entrepreneur.  You will get the power to decide.&lt;br /&gt;
+Its not about following some path.  It is making a path to others to follow.&lt;br /&gt;
+You should have great dream which can change many people life.
+You should have guts to stand still against all the odds.&lt;/p&gt;
+
+&lt;h2 id=&#34;even-though-their-is-no-defined-steps-to-become-entrepreneur-they-are-10-key-qualities-every-entrepreneur-should-have-we-will-see-about-it-1:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Even though, their is no defined steps to become entrepreneur, they are 10 key qualities, every entrepreneur should have.  We will see about it.&lt;/h2&gt;
+
+&lt;p&gt;class: center, middle&lt;/p&gt;
+
+&lt;h1 id=&#34;formula-of-success:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Formula of Success?&lt;/h1&gt;
+
+&lt;h3 id=&#34;time-money-technology-experience-success:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;&lt;del&gt;Time + Money + Technology + Experience = Success?&lt;/del&gt;&lt;/h3&gt;
+
+&lt;p&gt;???
+Circle of Concern
+Circle of Influence&lt;/p&gt;
+
+&lt;p&gt;Find the way inspite of all issue!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;class: center, middle&lt;/p&gt;
+
+&lt;h1 id=&#34;passion:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Passion&lt;/h1&gt;
+
+&lt;h3 id=&#34;not-fashion-its-a-internal-drive:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Not &lt;del&gt;fashion&lt;/del&gt;, its a internal drive&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/passion.png&#34; alt=&#34;&#34; /&gt;
+???
+Do you know what shape your life?  Its passion and believe.&lt;/p&gt;
+
+&lt;p&gt;If you love what you are doing, it will be much easier to develop other 9 qualities.&lt;/p&gt;
+
+&lt;h3 id=&#34;samuel-langly-vs-wright-brothers:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Samuel Langly vs Wright Brothers&lt;/h3&gt;
+
+&lt;p&gt;There is an easy question to You have to discover your passion? &amp;ldquo;Would you do it for free?&amp;rdquo;  If answer is yes, then you may likely find it. If you didnt find till now, try many things and find that one thing which you passionate.&lt;/p&gt;
+
+&lt;h2 id=&#34;follow-your-heart-not-your-wallet-your-wallet-will-be-happy-you-did:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Follow your heart, not your wallet! Your wallet will be happy you did.&lt;/h2&gt;
+
+&lt;p&gt;class: center, middle&lt;/p&gt;
+
+&lt;h1 id=&#34;believe:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Believe&lt;/h1&gt;
+
+&lt;h3 id=&#34;yes-you-can-make-it:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Yes, You can make it.&lt;/h3&gt;
+
+&lt;p&gt;.footnote[Golden Circle]&lt;/p&gt;
+
+&lt;p&gt;???
+Believe - Believe yourself. It doesnt mean that, if it is not happening right now, it doesnot mean that it will never happen to you.&lt;/p&gt;
+
+&lt;p&gt;If you believe that, you can do, you will do.  நீ எதை நினைக்கிறாயோ அதுவாகவே ஆகிறாய். Inspite of all the odds, you will find the way.  Make others to believe what you believe.  Great leaders follow this technique to influence people.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Why?&lt;/li&gt;
+&lt;li&gt;How?&lt;/li&gt;
+&lt;li&gt;What?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Take example of golden circle.   Everyone in this world, know what they are doing. Most know how they do. But most don&amp;rsquo;t know why they do? Consumer don&amp;rsquo;t buy for your self.  They buy product for themself. Aravind Kejerwal, Modi, Gandhi, Steve jobs - they make you to believe what they believe. Easy way to influence people is, communicate inside to outside.&lt;/p&gt;
+
+&lt;p&gt;Bill Gates said &amp;ldquo;We created Windows 10, it have cool features and better User Interface.  It can run in all platforms&amp;rdquo;  vs &amp;ldquo;I believe our software will run in every one pc and mobile phones.  So, we created an operating system with better User Interface, easy to use and other cool features.  That&amp;rsquo;s how Windows 10 evolved.&amp;rdquo;&lt;/p&gt;
+
+&lt;h2 id=&#34;which-one-feel-good:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Which one feel good?&lt;/h2&gt;
+
+&lt;p&gt;class: middle,center&lt;/p&gt;
+
+&lt;h1 id=&#34;innovate:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Innovate&lt;/h1&gt;
+
+&lt;p&gt;.footnote[Address need of the hour]
+###Find Problem - Solve it
+&lt;img src=&#34;imagesinnovate.png&#34; alt=&#34;&#34; /&gt;
+???
+Activity: Fold a paper into four.&lt;br /&gt;
+* Have a problem, because big ideas come from everyday problems.
+* Listen: Ears are antennas for ideas.
+* Observe - Eye-Q can be more important than IQ.
+* Be Curious
+* Ask Questions
+* Solve Problem
+* Borrow an idea, and build it into a new idea.
+* Make mistakes: Mistakes and failures lead to great ideas.
+* Make connections
+Crazy enough to think a different solution to a problem.  As I already said, entrepreneurship is an art. Same goes here&amp;hellip; You should have certain level of creativity.
+Activity: fold the paper
+Difference is not eating with left hand.  Its absolutely not, wrapping the watch in right hand.  Making the screen default display to black instead of white.  Cruse of Knowledge: Do not get biased.  Don&amp;rsquo;t allow your studies to get along the way of solution.&lt;/p&gt;
+
+&lt;p&gt;Dont be consumers.  Be a producers.  There are opportunity, you can create applications in Facebook and earn money.&lt;/p&gt;
+
+&lt;h2 id=&#34;consumer-don-t-know-what-they-want-if-henry-ford-asks-customer-what-they-want-they-might-ask-for-better-powerfull-fast-chariot-but-he-understand-the-correct-need-and-created-the-car-rest-all-history:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Consumer don&amp;rsquo;t know what they want. If Henry Ford, asks customer what they want? &amp;ldquo;They might ask for better, powerfull, fast chariot.  But he understand the correct need and created the car.  Rest all history. &amp;ldquo;&lt;/h2&gt;
+
+&lt;p&gt;class: middle, center&lt;/p&gt;
+
+&lt;h1 id=&#34;work-hard:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Work Hard&lt;/h1&gt;
+
+&lt;h3 id=&#34;pains-are-temporary-just-do-it:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Pains are temporary. Just do it.&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;imageswork.png&#34; alt=&#34;&#34; /&gt;
+???
+There is nothing called overnight success!  Hard work is necessary in any field, but it’s important to have fun while you work.&lt;br /&gt;
+Once you find your passion and start to follow it, the work will not burdern you. I know many entrepreneur who work for 12-16hrs a day, still they feel energized.&lt;/p&gt;
+
+&lt;p&gt;If you can automate certain things, do it.&lt;/p&gt;
+
+&lt;p&gt;Preparing for exam? I know, I know, you will face pain! They are temporary.  Visualize the end result.  Visulaize how your parents/professors will treat you, when you get good marks. Accept the pain and remember NIKE. just do it.&lt;/p&gt;
+
+&lt;h2 id=&#34;having-an-80-20-split-is-a-good-guideline-meaning-80-of-your-work-should-be-enjoyable-and-the-remaining-20-should-consist-of-the-serious-not-so-fun-stuff:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Having an &lt;sup&gt;80&lt;/sup&gt;&amp;frasl;&lt;sub&gt;20&lt;/sub&gt; split is a good guideline, meaning 80% of your work should be enjoyable and the remaining 20% should consist of the serious, not-so-fun stuff.&lt;/h2&gt;
+
+&lt;p&gt;class: middle, center&lt;/p&gt;
+
+&lt;h1 id=&#34;practice:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Practice&lt;/h1&gt;
+
+&lt;h3 id=&#34;practice-makes-man-perfect:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Practice makes man perfect.&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;imagespractice.png&#34; alt=&#34;&#34; /&gt;
+???
+What is 5+5?. How the answer came? Whether you do a manipulation now? No, this don&amp;rsquo;t even goes to your processing layer of brain.
+You learned the principle, Practised it, used it so often, it become part of life.
+“whether it’s their career, project, product, or service.”  Continuous improvement is the key thing which lead to success.&lt;/p&gt;
+
+&lt;h2 id=&#34;self-aware-of-what-you-know-and-what-you-dont-know:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Self aware of what you know and what you dont know.&lt;/h2&gt;
+
+&lt;p&gt;class: middle, center&lt;/p&gt;
+
+&lt;h1 id=&#34;communicate:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Communicate&lt;/h1&gt;
+
+&lt;h3 id=&#34;no-one-have-mind-reading-power-express-yourself:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;No one have mind reading power. Express Yourself.&lt;/h3&gt;
+
+&lt;p&gt;???
+What make TCE so special?  Same infrastruce is available in many colleges.  People over here.  Once, I used to tell, &amp;ldquo;manusangaloda persurathu vida, computer kuda pesitu poiralam.&amp;rdquo; I used to avoid talking with most.  But I realized now, how bad I am.&lt;/p&gt;
+
+&lt;p&gt;Want to become great leader? Communicate.&lt;br /&gt;
+Want to become cool guy? Communicate.&lt;br /&gt;
+To be successful, communicate, make relationship, create many contacts.  Don&amp;rsquo;t stop there.&lt;/p&gt;
+
+&lt;p&gt;If you come up with idea, explain them.&lt;br /&gt;
+If you created a prototype, demonstrate them.
+If you need help, ask them.
+Build trust!
+What is one thing that takes a long time to build but can be destroyed in no time?  Trust&lt;/p&gt;
+
+&lt;h2 id=&#34;over-period-of-time-these-people-can-make-much-difference-in-your-life:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Over period of time, these people can make much difference in your life.&lt;/h2&gt;
+
+&lt;p&gt;class: middle, center&lt;/p&gt;
+
+&lt;h1 id=&#34;focus:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Focus&lt;/h1&gt;
+
+&lt;h3 id=&#34;follow-one-course-until-u-succeed:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Follow One Course Until U Succeed.&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;imagesfocus.png&#34; alt=&#34;&#34; /&gt;
+???
+Life can give you n number of choices to get distracted.  Don&amp;rsquo;t busy with technology today.  I had only TV as most distracting agent, when I am child. Then comes computer, then comes internet.  Now its facebook, twitter, whatsapp, etc.,&lt;/p&gt;
+
+&lt;p&gt;Focus is key. To be successful, it’s important to specialize in a certain area and build your expertise.
+“Success means narrowing down and focusing on one thing, not being scattered all over the map”.&lt;/p&gt;
+
+&lt;h2 id=&#34;but-there-s-more-to-it-than-just-picking-a-field-and-focusing-on-it-you-should-start-out-thinking-wide-and-then-narrow-it-down-into-one-specific-focus-we-have-a-million-things-on-our-minds-every-day-but-we-can-t-succeed-at-a-million-things-it-s-hard-enough-to-succeed-at-just-one-thing:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;But there’s more to it than just picking a field and focusing on it. You should start out thinking wide and then narrow it down into one specific focus.  “We have a million things on our minds every day,”. “But we can’t succeed at a million things. It’s hard enough to succeed at just one thing.”&lt;/h2&gt;
+
+&lt;p&gt;class: center, middle&lt;/p&gt;
+
+&lt;h1 id=&#34;push:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Push&lt;/h1&gt;
+
+&lt;h3 id=&#34;get-out-of-your-comfort-zone:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Get out of your comfort zone.&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;imagespush.png&#34; alt=&#34;&#34; /&gt;
+.footnote[Join Competitions]&lt;/p&gt;
+
+&lt;p&gt;???
+I remember the day one, I joined this college.  Our beloved Hod, Dr. Mercy Shalline asks a question, what is the take away from this college?  Will you take away computers from lab for the fees paid?  Will you take away books from library as you paid much?&lt;/p&gt;
+
+&lt;p&gt;The answer is, &amp;ldquo;The transformation you undergone over here.&amp;rdquo; Transform yourself. Utilize all the resources over here.
+I don&amp;rsquo;t know, I can speak in front of a group, I pushed myself to do it so.  I don&amp;rsquo;t know, I can write until I joined some writing competition.  You don&amp;rsquo;t know your own limits until you push it.&lt;/p&gt;
+
+&lt;p&gt;You can&amp;rsquo;t push yourself.  So, god created mom. You don&amp;rsquo;t require an alarm clock, all you need is, tell mother tomorrow is exam. &amp;ldquo;Kanna, 5 mani achuda, elunthirida.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Mom can&amp;rsquo;t always push, better idea is&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Get a goal to push you.&lt;/li&gt;
+&lt;li&gt;Get a challenge to push you.&lt;/li&gt;
+&lt;li&gt;Get a deadline to push you.&lt;/li&gt;
+&lt;li&gt;Push yourself with self-discipline.&lt;/li&gt;
+&lt;li&gt;Get others to push you.&lt;/li&gt;
+
+&lt;li&gt;&lt;h2 id=&#34;get-competition-to-push-you:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Get competition to push you.&lt;/h2&gt;
+
+&lt;p&gt;class: center, middle&lt;/p&gt;
+
+&lt;h1 id=&#34;serve:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Serve&lt;/h1&gt;
+
+&lt;h3 id=&#34;add-value-to-universe-to-customers:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Add Value to universe, to customers.&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;imagesserve.png&#34; alt=&#34;&#34; /&gt;
+???
+You can do great things, you can follow your dream.  But you need to remember on thing, whether it is adding value to customers?&lt;/p&gt;
+
+&lt;h2 id=&#34;before-starting-analyse-whether-it-will-add-some-value-to-customer-if-yes-continue:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Before starting, analyse whether it will add some value to customer, if yes, continue.&lt;/h2&gt;
+
+&lt;p&gt;class: middle, center&lt;/p&gt;
+
+&lt;h1 id=&#34;persist:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Persist&lt;/h1&gt;
+
+&lt;h3 id=&#34;never-give-up:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Never give up!&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;imagespersist.png&#34; alt=&#34;&#34; /&gt;
+???
+Resist external source. Dont get demoralized by any body. Some people can turn you down. Key away from them.
+Faced failure? See big picture and move on. “Failure can be heartbreaking, and when it happens you have a choice,”
+I didnt get get demoralized even life slapped me.&lt;br /&gt;
+A bend in the road is not the end of the road.&lt;/p&gt;
+
+&lt;h2 id=&#34;it-s-not-not-falling-down-but-standing-up-every-time-we-fall-down-that-matters:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;It’s NOT not falling down but standing up every time we fall down that matters.&lt;/h2&gt;
+
+&lt;p&gt;background-image: url(success.jpg)&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;####Formula for Success?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;class: center,middle&lt;/p&gt;
+
+&lt;h1 id=&#34;thats-all-folks-for-now:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Thats all folks(for now)!&lt;/h1&gt;
+
+&lt;h2 id=&#34;thank-you:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;Thank You.&lt;/h2&gt;
+
+&lt;p&gt;class: center, middle
+background-image: url(IAmEntrepreneur.png)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;h2 id=&#34;this-is-test:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;This is test&lt;/h2&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;h2 id=&#34;this-is-test-1:6eb9bb1e5fee558f308d12327f74e630&#34;&gt;This is test&lt;/h2&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;This is again test&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>android</title>
+      <link>http://www.jeno.in/training/test/</link>
+      <pubDate>Sun, 13 Sep 2015 23:37:03 +0530</pubDate>
+      
+      <guid>http://www.jeno.in/training/test/</guid>
+      <description>
+
+&lt;p&gt;title: Technical Debt
+class: animation-fade
+layout: true&lt;/p&gt;
+
+&lt;!-- This slide will serve as the base layout for all your slides --&gt;
+
+&lt;p&gt;.bottom-bar[
+  {{title}} | &lt;a href=&#34;{{.Site.BaseURL}}&#34;&gt;Jeno&lt;/a&gt; | Twitter: &lt;a href=&#34;https://www.twitter.com/jenokarthic&#34;&gt;jenokarthic&lt;/a&gt;
+]&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;class: impact
+&lt;div CLASS=&#34;bigtext&#34;&gt;
+    &lt;span&gt;{{title}} &lt;/span&gt;
+    &lt;span&gt;THis is long very long very very long expansion.  &lt;/span&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;div:b128b7694e4de962e0088bcb1bcb254f&#34;&gt;&lt;/div&gt;&lt;/h2&gt;
+
+&lt;h1 id=&#34;the-basics:b128b7694e4de962e0088bcb1bcb254f&#34;&gt;The basics&lt;/h1&gt;
+
+&lt;h2 id=&#34;getting-started:b128b7694e4de962e0088bcb1bcb254f&#34;&gt;Getting started&lt;/h2&gt;
+
+&lt;p&gt;Use &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34;&gt;Markdown&lt;/a&gt; to write your slides. Don&amp;rsquo;t be afraid, it&amp;rsquo;s really easy!&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash;&lt;/p&gt;
+
+&lt;h2 id=&#34;making-points:b128b7694e4de962e0088bcb1bcb254f&#34;&gt;Making points&lt;/h2&gt;
+
+&lt;h2 id=&#34;look-how-you-can-make-some-points:b128b7694e4de962e0088bcb1bcb254f&#34;&gt;Look how you can make &lt;em&gt;some&lt;/em&gt; points:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;h2 id=&#34;create-slides-with-your-favorite-text-editor:b128b7694e4de962e0088bcb1bcb254f&#34;&gt;Create slides with your &lt;strong&gt;favorite text editor&lt;/strong&gt;&lt;/h2&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;h2 id=&#34;focus-on-your-content-not-the-tool:b128b7694e4de962e0088bcb1bcb254f&#34;&gt;Focus on your &lt;strong&gt;content&lt;/strong&gt;, not the tool&lt;/h2&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;You can finally be &lt;strong&gt;productive&lt;/strong&gt;!&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;there-s-more:b128b7694e4de962e0088bcb1bcb254f&#34;&gt;There&amp;rsquo;s more&lt;/h1&gt;
+
+&lt;h2 id=&#34;syntax-highlighting:b128b7694e4de962e0088bcb1bcb254f&#34;&gt;Syntax highlighting&lt;/h2&gt;
+
+&lt;p&gt;You can also add &lt;code&gt;code&lt;/code&gt; to your slides:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;&amp;lt;div class=&amp;quot;impact&amp;quot;&amp;gt;Some HTML code&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;css-classes:b128b7694e4de962e0088bcb1bcb254f&#34;&gt;CSS classes&lt;/h2&gt;
+
+&lt;p&gt;You can use .alt[shortcut] syntax to apply .big[some style!]&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip;or just &lt;span class=&#34;alt&#34;&gt;HTML&lt;/span&gt; if you prefer.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;and-more:b128b7694e4de962e0088bcb1bcb254f&#34;&gt;And more&amp;hellip;&lt;/h1&gt;
+
+&lt;h2 id=&#34;12-column-grid-layout:b128b7694e4de962e0088bcb1bcb254f&#34;&gt;12-column grid layout&lt;/h2&gt;
+
+&lt;p&gt;Use to the included &lt;strong&gt;grid layout&lt;/strong&gt; classes to split content easily:
+.col-6[
+  ### Left column&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I&amp;rsquo;m on the left&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;It&amp;rsquo;s neat!
+]
+.col-6[&lt;/p&gt;
+
+&lt;h3 id=&#34;right-column:b128b7694e4de962e0088bcb1bcb254f&#34;&gt;Right column&lt;/h3&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I&amp;rsquo;m on the right&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I love it!
+]&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;learn-the-tricks:b128b7694e4de962e0088bcb1bcb254f&#34;&gt;Learn the tricks&lt;/h2&gt;
+
+&lt;p&gt;See the &lt;a href=&#34;https://github.com/gnab/remark/wiki&#34;&gt;wiki&lt;/a&gt; to learn more of what you can do with .alt[Remark.js]&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
