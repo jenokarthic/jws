@@ -8,20 +8,19 @@ menu = "main"
 categories = ["android","ios","ionic"]
 +++
 
-author: Karthicbabu .K 
 layout: true
 
 <!-- This slide will serve as the base layout for all your slides -->
 .bottom-bar[
-  {{title}}
+  Mobile Application Development
 ]
 
 ---
 
 class: impact
 
-# {{title}}
-### {{author}}
+# Mobile Application Development
+### Jeno Karthic
 
 
 ---
